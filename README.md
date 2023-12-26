@@ -1,2 +1,1 @@
-プロフ
-今後なんか書くかも
+![hamks forever](https://hamutan86.github.io/my-github-panel/)
